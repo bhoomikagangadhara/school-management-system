@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 // --- DATA ---
 const TEACHERS_DATA = [
-  { id: 1, name: "Niranjan", phone: "917892913588" },
+  { id: 1, name: "Bhoomika", phone: "917892913588" },
   { id: 2, name: "Niranjan", phone: "917676394414"  },
   { id: 3, name: "Sita Sharma", phone: "919876543212" },
   { id: 4, name: "Amit Patel", phone: "919876543213" },
